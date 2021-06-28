@@ -1,1 +1,1 @@
-this  is the second chapter of our sstory for learning git 
+this is the second space plot for the story.this  is the second chapter of our sstory for learning git 
